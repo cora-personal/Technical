@@ -1,13 +1,13 @@
 # Cognizant Technical Assignment:
 
-Below I have provided directions on how to use the app as well as design assumptions/decisions and potential improvement for further development.
+Below I have provided directions on how to use the app as well as design assumptions/decisions and potential improvements for further development.
 
 ### Overall
-For this example I followed the MVC design pattern (decided this because apple most recommend). 
-I used navy blue to match the colour scheme on the Cognizant logo and website
+For this example project I followed the MVC design pattern (as this is apple's most recommended). 
+I used navy blue to match the colour scheme on the Cognizant logo and website.
 
 ### Welcome Screen
-I decided to prepare a welcome screen so that there is the option of adding a 'Register' button in future to register users.
+I decided to prepare a welcome screen so there is the option of adding a 'Register' button in future, to register users.
 
 ### Login In Screen
 To gain access, the username is "user" and the password is "pass". The password field is hidden to protect the users privacy. In future development the app could be linked up with firebase to authenticate users. Further, when the user enters the incorrect details, the app should notify them appropriately, currently the user is given no feedback.
